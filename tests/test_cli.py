@@ -1,8 +1,26 @@
-
-def test_cli_lists_stands()
+def test_cli_prompts():
     assert False
 
-# Prompt questions for a stand-up
-# Display a stand-up
-# List all stand-ups
-# List help
+
+def test_cli_lists_stands():
+    assert False
+
+
+def test_cli_prompts_wdydy_success():
+    assert False
+
+
+def test_cli_prompts_wdydt_success():
+    assert False
+
+
+def test_cli_prompts_blockers_success():
+    assert False
+
+
+def test_cli_list_standup():
+    assert False
+
+
+def test_cli_help():
+    assert False
