@@ -6,11 +6,11 @@ def test_cli_lists_stands():
     assert False
 
 
-def test_cli_prompts_wdydy_success():
+def test_cli_prompts_yesterday_success():
     assert False
 
 
-def test_cli_prompts_wdydt_success():
+def test_cli_prompts_today_success():
     assert False
 
 
